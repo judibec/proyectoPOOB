@@ -1,0 +1,6 @@
+judibec: 20
+mastersword: 190
+ianomas : 10
+CPU: 79
+Jugador 1: 200
+
